@@ -1,5 +1,7 @@
+<div algin="center">
+  <h1>Yannoo Hub</h1>
+</div>
 
-###Yannoo
 
 <h3>Baekjoon</h3>
 
@@ -9,7 +11,7 @@
 
 
 
-  <h3>STACKS</h3>
+  <h3>Stacks</h3>
 
 
 <div align="left">

@@ -27,10 +27,22 @@
 
 <h3>Projects</h3>
 <br>
+
+
+
 |제목|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
 
+
+항목 1 | 항목 2 | 항목 3
+----- | ----- | -----
+내용을 | 추가할 | 수있다
+여기서도 | *강조 기능이* | **작동한다**
+
+
+
+<br>
 ![Footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=48&section=footer)

@@ -8,9 +8,9 @@
 <br>
 
 
-<div align = "center">
+
   <h3>STACKS</h3>
-</div>
+
 
 <div align="left">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

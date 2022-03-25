@@ -1,12 +1,16 @@
-### YANNOO
+### YANNOO GITHUB
 
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yannoo)](https://solved.ac/yannoo)
+<br>
+<br>
+<hr>
+<br>
+<br>
 
 
-
-<h2>STACKS</h2>
+<h3>STACKS</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />

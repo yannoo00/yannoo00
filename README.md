@@ -1,7 +1,7 @@
-//<div algin="center">
-//  <h1>Yannoo Hub</h1>
-//</div>
+
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=34&section=header&text=Yannoo%20Hub&fontSize=36)
+<br>
+<br>
 
 
 
@@ -28,3 +28,5 @@
 <h3>Projects</h3>
 <br>
 
+<br>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)

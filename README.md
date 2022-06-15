@@ -39,7 +39,7 @@
       <th>기간</th><th>제목</th><th>내용</th><th>기관</th>
     </tr>
     <tr>
-      <th>2021.05.30-3일간</th><th>헬창의 모험</th><th>유니티2D 로그라이크 게임</th><th>GameLab61315 </th>
+      <th>2022.03~06</th><th><i>Night Escaper</i></th><th>Unity 3D project</th><th> Yannoo </th>
     </tr>
     
   </table>

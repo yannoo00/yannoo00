@@ -39,7 +39,7 @@
       <th>기간</th><th>제목</th><th>내용</th><th>비고</th>
     </tr>
     <tr>
-      <th>2022.03~06</th><th><i>Night Escaper</i></th><th>Unity 3D project</th><th>[Yannoo](https://store.steampowered.com/app/1990620/Night_Escaper/)</th>
+      <th>2022.03~06</th><th><i>Night Escaper</i></th><th>Unity 3D game project</th><th>[Yannoo](https://store.steampowered.com/app/1990620/Night_Escaper/)</th>
     </tr>
     
   </table>

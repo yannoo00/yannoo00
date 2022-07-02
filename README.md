@@ -39,7 +39,7 @@
       <th>기간</th><th>제목</th><th>내용</th><th>비고</th>
     </tr>
     <tr>
-      <th>2021.06~08</th><th><i>Astar</i></th><th>Unity 2D mobile game project</th><th>[GameLab61315](https://play.google.com/store/apps/details?id=com.Team_Astar.Astar)</th>
+      <th>2021.06~08</th><th><i>Astar</i></th><th>Unity mobile 2D game project</th><th>[GameLab61315](https://play.google.com/store/apps/details?id=com.Team_Astar.Astar)</th>
     </tr>
     <tr>
       <th>2022.03~06</th><th><i>Night Escaper</i></th><th>Unity PC 3D game project</th><th>[Yannoo](https://store.steampowered.com/app/1990620/Night_Escaper/)</th>

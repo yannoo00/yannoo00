@@ -1,7 +1,6 @@
 
 <!--![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=48&section=header&text=Yannoo%20Hub&fontSize=36)-->
 <h2>Yannoo Hub<h2>
-<br>
 
 
 
@@ -53,4 +52,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=48&section=footer)
+<!--![Footer](https://capsule-render.vercel.app/api?type=egg&color=auto&height=48&section=footer)-->

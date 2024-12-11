@@ -53,6 +53,9 @@
     <tr>
       <th>2024.05~</th><th><i>카공여지도</i></th><th>Web/app</th><th>[SeTA 15 - 상생정보통](https://cagonginfo.web.app)</th>
     </tr>
+    <tr>
+      <th>2024.10~</th><th><i>SOLA</i></th><th>Unreal PC 3D game project</th><th>[BRIDGE-SOLIT](https://cagonginfo.web.app)</th>
+    </tr>
   </table>
   
 </div>

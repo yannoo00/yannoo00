@@ -16,7 +16,6 @@
 
 
 <div align="left">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=Csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
@@ -54,7 +53,7 @@
       <th>2024.05~</th><th><i>카공여지도</i></th><th>Web/app</th><th>[SeTA 15 - 상생정보통](https://cagonginfo.web.app)</th>
     </tr>
     <tr>
-      <th>2024.10~</th><th><i>SOLA</i></th><th>Unreal PC 3D game project</th><th>[BRIDGE-솔릿]</th>
+      <th>2024.10~2025.01</th><th><i>SOLA</i></th><th>Unreal PC 3D game project</th><th>[BRIDGE-솔릿]</th>
     </tr>
   </table>
   

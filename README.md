@@ -47,7 +47,7 @@
       <th>2021.06~08</th><th><i>Astar</i></th><th>Unity mobile 2D game project</th><th>[GameLab61315](https://play.google.com/store/apps/details?id=com.Team_Astar.Astar)</th>
     </tr>
     <tr>
-      <th>2022.03~06</th><th><i>Night Escaper</i></th><th>Unity PC 3D game project</th><th>[Yannoo](https://store.steampowered.com/app/1990620/Night_Escaper/)</th>
+      <th>2022.03~06</th><th><i>Night Escaper</i></th><th>Unity PC 3D game project</th><th>[개인](https://store.steampowered.com/app/1990620/Night_Escaper/)</th>
     </tr>
     <tr>
       <th>2024.05~</th><th><i>카공여지도</i></th><th>Web/app</th><th>[SeTA 15 - 상생정보통](https://cagonginfo.web.app)</th>
